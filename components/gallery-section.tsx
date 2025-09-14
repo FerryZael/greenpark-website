@@ -12,23 +12,23 @@ export default function GallerySection() {
       alt: "Eksterior Rumah Modern",
     },
     {
-      src: "/modern-living-room.png",
+      src: "/gym.webp",
       alt: "Interior Ruang Tamu",
     },
     {
-      src: "/residential-park-with-playground.jpg",
+      src: "/jogtrack.webp",
       alt: "Taman Bermain",
     },
     {
-      src: "/swimming-pool-in-residential-complex.jpg",
+      src: "/lehauzcibuburmasjid.webp",
       alt: "Kolam Renang",
     },
     {
-      src: "/modern-kitchen.png",
+      src: "/lapanganbasket.webp",
       alt: "Dapur Modern",
     },
     {
-      src: "/green-landscape-with-walking-path.jpg",
+      src: "/playgroundcilodong.webp",
       alt: "Taman Hijau",
     },
   ]
